@@ -14,7 +14,7 @@ function Index() {
   return (
     <>
       <Head title="Home" />
-      <div className="hero m-0 min-h-screen">
+      <div className="hero m-0 min-h-screen overflow-hidden">
         <div className="text-center p-0 hero-content">
           <div className="w-max">
             <h1 className="animate-typing overflow-hidden whitespace-nowrap border-r-4 border-r-neutral-800 text-5xl text-neutral-300 font-bold">
